@@ -1,0 +1,9 @@
+[
+    {
+        "id": "PC001",
+        "marca": "Dell",
+        "modelo": "Inspiron",
+        "estado": "Excelente",
+        "asignado_a": null
+    }
+]
